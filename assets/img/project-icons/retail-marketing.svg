@@ -1,0 +1,7 @@
+<svg version="1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <style>
+    .st0{fill:#fff}
+  </style>
+  <path class="st0" d="M95 88h-1V44c4-2 6-6 6-11v-1L88 12c-1-2-2-3-4-3H16c-2 0-3 1-4 3L0 32v1c0 5 3 9 6 11v44H5a1 1 0 0 0 0 3h90a1 1 0 1 0 0-3zM3 34h5a1 1 0 0 0 0-3H4l10-18 2-1h68l2 1 10 18h-4a1 1 0 0 0 0 3h5a11 11 0 0 1-21 0h10a1 1 0 0 0 0-3H14a1 1 0 0 0 0 3h10a11 11 0 0 1-21 0zm70 0a11 11 0 0 1-21 0h21zm-25 0a11 11 0 0 1-21 0h21zm35 54H67v-5h16v5zm0-8H67V53h16v27zm8 8h-5V52l-2-2H66l-2 2v36H9V46h5c5 0 9-3 12-7a14 14 0 0 0 24 0 14 14 0 0 0 24 0 14 14 0 0 0 17 7v42z"/>
+  <path class="st0" d="M58 50H16l-2 2v29l2 2h42l1-2V52l-1-2zm-2 30H17V53h39v27z"/>
+</svg>

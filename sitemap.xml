@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://alumnai.mu/</loc>
+  <lastmod>2019-02-22T08:26:53+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://alumnai.mu/projects</loc>
+  <lastmod>2019-02-22T08:26:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://alumnai.mu/data-science</loc>
+  <lastmod>2019-02-22T08:26:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://alumnai.mu/msc-ai</loc>
+  <lastmod>2019-02-22T08:26:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://alumnai.mu/msc-blockchain</loc>
+  <lastmod>2019-02-22T08:26:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://alumnai.mu/blog/</loc>
+  <lastmod>2019-02-22T11:35:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://alumnai.mu/privacy-policy</loc>
+  <lastmod>2019-02-22T08:26:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://alumnai.mu/terms-of-use</loc>
+  <lastmod>2019-02-22T08:26:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://alumnai.mu/blog/?p=59</loc>
+  <lastmod>2019-02-22T11:35:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alumnai.mu/blog/?p=56</loc>
+  <lastmod>2019-02-22T11:35:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alumnai.mu/blog/?p=53</loc>
+  <lastmod>2019-02-22T11:35:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alumnai.mu/blog/?p=50</loc>
+  <lastmod>2019-02-22T11:35:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alumnai.mu/blog/?p=47</loc>
+  <lastmod>2019-02-22T11:35:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alumnai.mu/blog/?p=35</loc>
+  <lastmod>2019-02-22T11:35:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alumnai.mu/blog/?author=1</loc>
+  <lastmod>2019-02-22T11:35:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://alumnai.mu/blog/?cat=1</loc>
+  <lastmod>2019-02-22T11:35:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://alumnai.mu/blog/?cat=2</loc>
+  <lastmod>2019-02-22T11:35:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
